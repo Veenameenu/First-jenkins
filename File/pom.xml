@@ -24,7 +24,7 @@
 				<configuration>
 					<archive>
 						<manifest>
-							<mainClass>File.Sum</mainClass>
+							<mainClass>print.Sum</mainClass>
 						</manifest>
 					</archive>
 				</configuration>
